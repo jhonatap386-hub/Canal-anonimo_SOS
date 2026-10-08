@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 # Principais Desafios
-##- Garantir o anonimato
+## - Garantir o anonimato
 ## - Ser de utilização e proporcionar um processo confiável para o acompanhamento das manifestações.
 
 

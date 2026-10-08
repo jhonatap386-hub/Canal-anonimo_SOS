@@ -5,15 +5,15 @@ ________________________________________________________________________________
 
 
 # Principais Desafios
-# - Garantir o anonimato
-# - Ser de utilização e proporcionar um processo confiável para o acompanhamento das manifestações.
+##- Garantir o anonimato
+## - Ser de utilização e proporcionar um processo confiável para o acompanhamento das manifestações.
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 # Método de Avaliação 
-# - ele será avaliado pela segurança do canal, pela confiança dos colaboradores em utilizá-lo e pela contribuição para um ambiente de trabalho mais saudável e transparente.
+## - ele será avaliado pela segurança do canal, pela confiança dos colaboradores em utilizá-lo e pela contribuição para um ambiente de trabalho mais saudável e transparente.
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________
@@ -28,4 +28,4 @@ ________________________________________________________________________________
 
 # Banco De Dados:
 
-# SQlite
+## SQlite

@@ -29,3 +29,27 @@ ________________________________________________________________________________
 # Banco De Dados:
 
 ## SQlite
+canal-sos/
+│
+├── backend/
+│   ├── app/
+│   ├── routes/
+│   ├── services/
+│   ├── models/
+│   └── database/
+│
+├── frontend/
+│   ├── css/
+│   ├── js/
+│   └── pages/
+│
+├── docs/
+│   ├── requisitos.md
+│   ├── arquitetura.md
+│   └── diagramas/
+│
+├── tests/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore****
